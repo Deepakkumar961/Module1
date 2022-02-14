@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.outer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+  height: 100vh;
+  width: 100%;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+
+  
+  background-color: whitesmoke;
+  width: 400px;
+  height: 600px;
+  justify-content: center;
+  align-items: center;
+  
+}
+.div1{
+  background-color: blue;
+  border: 2px solid black;
+  padding: 5px;
+  margin: 5px;
+  height: 250;
+  width: 350px;
+}
+.div1 :hover
+{
+  background-color: black;
+  color: green;
+}
+/* .div2{
+  /* background-color: indigo; */
+ 
+  /* padding: auto;
+  margin: 5px;
+  height: auto;
+  width: 350px; */
+
+/* } */ 
+ol li {
+  display: flex;
+  padding: 10px;
+  color:green;
+  margin: 10px;
+  box-sizing: border-box;
+}
+button:hover{
+  background-color: black;
+  color: green;
+
+}
+ol ul button{
+  background-color: black;
+}

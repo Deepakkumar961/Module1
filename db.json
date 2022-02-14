@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Deepak",
+      "branch": "computer Science"
+    },
+ 
+    {
+      "id": 2,
+      "name": "kamlesh pandey",
+      "branch": "computer science"
+    },
+ 
+    {
+      "id": 3,
+      "name": "jonny",
+      "branch": "electrical engineering"
+    },
+ 
+    
+      {
+        "id": 4,
+        "name": "shashank rai",
+        "branch": "civil engineering"
+      },
+   
+     {
+       "id":5 ,
+      "name": "vishal negi",
+      "branch": "machanical engineering"
+    },
+ 
+    {
+      "id": 6,
+      "name": "vinay",
+      "branch": "electronic engineering"
+    }
+  ]}
